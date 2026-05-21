@@ -2,8 +2,8 @@
 
 ## Финальный отчёт
 Финальный отчёт сделан на основе предложенной структуры и содержит всю необходимую информацию 
-https://github.com/Ogryy/practice-2026
+https://github.com/Ogryy/practice-2026/reports/Отчёт.docx
 
 ## Отчёт о взаимодействии с партнёром
 Отчёт с описанием опыта рассказа доклада на конференции
-https://github.com/Ogryy/practice-2026
+https://github.com/Ogryy/practice-2026/
